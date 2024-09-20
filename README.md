@@ -15,7 +15,7 @@ $ pkg install zip
 
 $ git clone https://github.com/TEAMBCT1/DDOS.git
  
-$ cd Pannel
+$ cd DDOS
 
 $ unzip Pannel.zip
 
