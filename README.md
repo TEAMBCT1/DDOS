@@ -13,7 +13,7 @@ $ pkg install python -y
 
 $ pkg install zip
 
-$ git clone https://github.com/MrGhost69/Ghost_Ddos
+$ git clone https://github.com/TEAMBCT1/DDOS.git
  
 $ cd Pannel
 
