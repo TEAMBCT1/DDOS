@@ -1,0 +1,30 @@
+Powerful Free Ddos Tool For Everyone 💙👻
+
+
+Command :- 
+
+$ apt update 
+
+$ apt upgrade -y
+
+$ pkg install git -y
+
+$ pkg install python -y
+
+$ pkg install zip
+
+$ git clone https://github.com/MrGhost69/Ghost_Ddos
+ 
+$ cd Pannel
+
+$ unzip Pannel.zip
+
+$ python Ghost.py
+
+UserName : BCT 
+
+Password : BCT 
+
+Note : Use Only CloudShell Or Vps ⚠️
+
+Note2 : Don't Run In Termux 📵
